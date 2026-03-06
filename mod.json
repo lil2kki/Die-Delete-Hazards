@@ -8,7 +8,7 @@
 	},
 	"id": "lr70.die-delete-hazards",
 	"name": "Die & Delete Hazards",
-	"version": "v1.1.0",
+	"version": "v1.1.1",
 	"developer": "lil2kki",
 	"description": "Destroy hazard object caused your death. On respawn, destroyed objects remain gone.",
 	"links": {
